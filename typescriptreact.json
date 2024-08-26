@@ -1,0 +1,18 @@
+{
+    "React Functional Component": {
+      "prefix": "rsfc",
+      "body": [
+        "import React from 'react';",
+        "",
+        "export default function{1:ComponentName}(){",
+        "  return (",
+        "    <div>",
+        "      $0",
+        "    </div>",
+        "  );",
+        "};",
+        ""
+      ],
+      "description": "Create a React Functional Component"
+    }
+  }
